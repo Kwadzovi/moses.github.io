@@ -1,0 +1,15 @@
+body {
+font: sans-serrif;
+background-color: lightgreen;
+}
+
+.text {
+	text-align:center;
+	color: red;
+}
+
+.ama {
+	text-align:right;
+	color:yellow;
+	margin: 10px,
+}
