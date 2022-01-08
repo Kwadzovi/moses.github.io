@@ -1,2 +1,2 @@
-# moses.github.io
+# github.io
 My personal website
